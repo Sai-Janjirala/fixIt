@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-electric-blue: #3b82f6;
+  --color-deep-navy: #0f172a;
+  --color-card-surface: #1e293b;
+}
+
+:root {
+  font-family: 'Inter', 'Poppins', system-ui, -apple-system, sans-serif;
+  color-scheme: light dark;
+}
