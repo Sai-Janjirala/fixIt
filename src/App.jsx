@@ -30,7 +30,6 @@ function App() {
             <Route path="/" element={<Landing />} />
             <Route path="/login" element={<Login />} />
             <Route path="/signup" element={<Signup />} />
-{/* Sai */}
             {/* Student Protected Routes */}
             <Route 
               path="/dashboard" 
