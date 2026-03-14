@@ -1,5 +1,3 @@
-# fixIt
-
 # 🏠 Hostel Room Maintenance Tracker
 
 A full stack web application that digitizes and streamlines the hostel room maintenance complaint process — replacing informal WhatsApp messages and manual registers with a structured, trackable system.
